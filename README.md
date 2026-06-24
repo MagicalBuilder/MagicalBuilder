@@ -1,133 +1,45 @@
-# Hi, I'm Emperor JS 👋
+Hi, I'm Emperor JS 👋
 
-[![wakatime](https://wakatime.com/badge/user/d3b1dcea-49cf-4a0e-9f93-0b474c4edab0.svg)](https://wakatime.com/@d3b1dcea-49cf-4a0e-9f93-0b474c4edab0)
+""wakatime" (https://wakatime.com/badge/user/d3b1dcea-49cf-4a0e-9f93-0b474c4edab0.svg)" (https://wakatime.com/@d3b1dcea-49cf-4a0e-9f93-0b474c4edab0)
 
-### Full-Stack Developer • Backend Engineer • Web3 Builder
+Full-Stack Developer • Backend Engineer • Web3 Builder
 
-I'm a passionate software engineer from Nigeria focused on building scalable products, backend systems, AI-powered applications, automation platforms, and Web3 infrastructure.
+I build scalable applications, backend systems, AI-powered products, automation platforms, and blockchain infrastructure.
 
-I enjoy turning ideas into real products, shipping fast, solving difficult technical problems, and creating technology that delivers real value to users.
+I enjoy turning ideas into production-ready products, solving complex technical problems, and shipping fast.
 
----
+🟢 Open to Work
 
-## 🚀 About Me
-
-* 💻 Full-Stack Developer
-* ⚡ Backend & Systems Engineer
-* 🌐 Web3 & Blockchain Enthusiast
-* 🤖 AI Automation Builder
-* 📱 Product-Focused Developer
-* 🌍 Based in Nigeria
-* 💼 Open to Work
-* 🚀 Always building something new
+🌐 Website: https://emperorjs.com
 
 ---
 
-## 🛠️ Tech Stack
+What I Do
 
-### Languages
-
-* TypeScript
-* JavaScript
-* Python
-* Rust
-* SQL
-
-### Frontend
-
-* React
-* Next.js
-* React Native
-* Expo
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Bun
-* Hono
-* Express
-* REST APIs
-* WebSockets
-
-### Databases
-
-* PostgreSQL
-* Supabase
-* Redis
-* MySQL
-
-### Cloud & Infrastructure
-
-* Docker
-* Cloudflare
-* Vercel
-* Linux
-* Nginx
-
-### Blockchain
-
-* Solana
-* Ethereum
-* Web3
-* Smart Contract Integrations
-* Wallet Infrastructure
-* DeFi Applications
-
-### AI & Automation
-
-* OpenAI
-* AI Agents
-* n8n
-* Telegram Bots
-* Workflow Automation
+- Full-Stack Development
+- Backend Architecture
+- AI Agents & Automation
+- Web3 Applications
+- Developer Tools
+- APIs & Infrastructure
+- SaaS Products
 
 ---
 
-## 📈 WakaTime
+Current Focus
 
-[![wakatime](https://wakatime.com/badge/user/d3b1dcea-49cf-4a0e-9f93-0b474c4edab0.svg)](https://wakatime.com/@d3b1dcea-49cf-4a0e-9f93-0b474c4edab0)
-
----
-
-## 🌐 Portfolio
-
-Website: https://emperorjs.com
+- AI-Powered Applications
+- Scalable Backend Systems
+- Blockchain Infrastructure
+- Product Development
 
 ---
 
-## 🏗️ What I Build
+Connect
 
-* SaaS Platforms
-* AI-Powered Applications
-* Developer Tools
-* Automation Systems
-* Web3 Products
-* Crypto Infrastructure
-* Trading Platforms
-* Telegram Applications
-* Business Dashboards
-* APIs & Backend Systems
+- Website: https://emperorjs.com
+- Telegram: https://t.me/EmperorJS
 
 ---
 
-## 📫 Connect With Me
-
-* Website: https://emperorjs.com
-* GitHub: https://github.com/EmperorJS
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmperorJS\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorJS\&layout=compact)
-
----
-
-### Philosophy
-
-> Build useful things. Ship fast. Keep learning. Trust God through the process.
-
-⭐ If you like my work, feel free to follow me and check out my projects.
+«Build useful things. Ship fast. Keep learning. Trust God through the process.»
