@@ -1,6 +1,6 @@
 Hi, I'm Emperor JS 👋
 
-""wakatime" (https://wakatime.com/badge/user/d3b1dcea-49cf-4a0e-9f93-0b474c4edab0.svg)" (https://wakatime.com/@d3b1dcea-49cf-4a0e-9f93-0b474c4edab0)
+[![wakatime](https://wakatime.com/badge/user/d3b1dcea-49cf-4a0e-9f93-0b474c4edab0.svg)](https://wakatime.com/@d3b1dcea-49cf-4a0e-9f93-0b474c4edab0)
 
 Full-Stack Developer • Backend Engineer • Web3 Builder
 
